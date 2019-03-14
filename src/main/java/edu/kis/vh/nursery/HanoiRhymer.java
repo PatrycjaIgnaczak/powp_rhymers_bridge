@@ -1,6 +1,6 @@
 package edu.kis.vh.nursery;
 
-public class HanoiRhymer extends defaultCountingOutRhymer {
+public class HanoiRhymer extends DefaultCountingOutRhymer {
 // alt + ← i alt + → (cmd + option + ← i cmd + option + →) przenosi nas do ostatniej lokacji, którą edytowaliśmy
     int totalRejected = 0;
 
